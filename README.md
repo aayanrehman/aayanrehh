@@ -1,6 +1,6 @@
 ### Hi, I'm Aayan
 
-MIS student at Binghamton University ('28) building deterministic-first AI tools — Python where the logic is testable, LLMs where judgment helps, SQL underneath it all. Background in insurance (AINS) and data governance from my internship at Voya Financial.
+MIS student at Binghamton University ('28) building deterministic-first AI tools.. Python where the logic is testable, LLMs where judgment helps, SQL underneath it all. Background in insurance (AINS) and data governance from my internship at Voya Financial.
 
 **Currently**
 - Data & AI engineering coursework + case competitions (EY TechX finalist)
