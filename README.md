@@ -14,5 +14,3 @@ MIS student at Binghamton University ('28) building deterministic-first AI tools
 | [CaseSprint AI](https://github.com/aayanrehh/casesprint-ai) | Case-competition copilot: research plan → MECE issue tree → storyline → timed speaker scripts. Same split: deterministic Python core, agent layer for drafting. |
 
 **Stack:** Python · SQL · FastAPI · pytest/GitHub Actions · Power BI · RAG · LLM · Cloud · GTM Systems · Graph Engineering · AWS (AI Practitioner certified)
-
-*Everything in my public repos uses synthetic data and says so.*
