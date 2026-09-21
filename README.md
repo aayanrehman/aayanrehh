@@ -3,7 +3,7 @@
 MIS student at Binghamton University ('28) building deterministic-first AI tools.. Python where the logic is testable, LLMs where judgment helps, SQL underneath it all.
 
 **Currently**
-- Data & AI engineering; Building & Deploying managed GTM systems with Hermes
+- Data & AI engineering; Building & Deploying managed GTM systems with Claude Code, Deepline, PlusVibe, etc
 - Sales Strategy Intern @ Voya Financial
 
 **Pinned work**
