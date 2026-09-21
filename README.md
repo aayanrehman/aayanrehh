@@ -1,12 +1,12 @@
-### Hi, I'm Aayan
+### Hi, I'm Aayan Ur Rehman
 
-MIS student at Binghamton University ('28) building deterministic-first AI tools.. Python where the logic is testable, LLMs where judgment helps, SQL underneath it all.
+A student studying management information systems and business analytics while building AI tools that solve real business problems, all the way from saving time to consistent lead gen
 
 **Currently**
-- Data & AI engineering; Building & Deploying managed GTM systems with Claude Code, Deepline, PlusVibe, etc
-- Sales Strategy Intern @ Voya Financial
+- AI GTM Engineering: building tools to create consistent pipeline for waterfallgrowth (growth consulting for IECs) using claude code, deepline, plusvibe, etc.
+- AI & Sales Strategy @ Voya Financial; discovering & automating processes + creating agents resulting in efficiencies throughout the retirement sales team
 
-**Pinned work**
+**see my work**
 
 | Project | What it is |
 |---|---|
